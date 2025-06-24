@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+2bf40964-d20f-4ef0-91a1-2b986ae109c1.azurewebsites.net	TRUE	/	FALSE	1999999999	ARRAffinity	fb4d5463fa3a59318f2897f54bc46f826967668a97cb35e11c0a6bb9bce4aab2
+propeltech.co.uk	TRUE	/	FALSE	1999999999	ARRAffinitySameSite	fb4d5463fa3a59318f2897f54bc46f826967668a97cb35e11c0a6bb9bce4aab2
+2bf40964-d20f-4ef0-91a1-2b986ae109c1.azurewebsites.net	TRUE	/	FALSE	1999999999	SameSite	None
+.hsforms.net	TRUE	/	FALSE	1999999999	__cf_bm	Fj4awkzEbe8GX1w5VYgQ.uwZG2u_2C_FlxJm.luEcBg-1749120253-1.0.1.1-XQ6x1YwqP2IX7PoWexJq_E32bmXqI5BfPiJ0oU_v3UwgCGNLNtDcT7t8TiieRJu3U9fmksE.vRbF5R7Nz88Ww5Xlxx.asRssM5kOU_IDQPY
+
